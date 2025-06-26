@@ -1,7 +1,6 @@
 # Vidura – Universal Video Downloader
 
-**Vidura** is a cross-platform desktop application for downloading videos from various websites using `yt-dlp` and `ffmpeg`.  
-Built for power users who need flexibility, clarity, and full control over their video downloads.
+**Vidura** is a cross-platform desktop application for downloading videos from various websites using `yt-dlp` and `ffmpeg`. Built for everyone who need flexibility, clarity, and full control over their video downloads.
 
 ---
 
